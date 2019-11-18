@@ -1,0 +1,6 @@
+name gender aptitude statistics
+Linda F 95 85
+Jason M 85 95
+Susan F 80 70
+Mike  M 70 65
+Judy  F 60 70

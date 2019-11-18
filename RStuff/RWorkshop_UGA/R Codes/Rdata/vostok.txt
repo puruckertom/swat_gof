@@ -1,0 +1,13 @@
+month	temp
+Jan	-32.0
+Feb	-47.3
+Mar	-57.2
+Apr	-62.9
+May	-61.0
+Jun	-70.6
+Jul	-65.5
+Aug	-68.2
+Sep	-63.2
+Oct	-58.0
+Nov	-42.0
+Dec	-30.4

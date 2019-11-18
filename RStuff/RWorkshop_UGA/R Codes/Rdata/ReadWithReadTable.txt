@@ -1,0 +1,5 @@
+Age Weight Height Gender
+18 150 65 F
+21 160 68 M
+45 180 65 M
+54 205 69 M

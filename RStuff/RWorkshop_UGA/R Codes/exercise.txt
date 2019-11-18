@@ -1,0 +1,32 @@
+[1] Find the built-in dataset named 'cars' and load it on your workspace.
+
+[2] Print the dataset on your console.
+
+[3] Excute some exploratory data analyses on the dataset...
+
+[4] Define a new binary variable for speed in the following way. 
+    speed < 25  --->  speed.b = low
+    speed >= 25 --->  speed.b = high
+
+[5] Define a new variable (factor) for speed in the following way. 
+          speed < 15  --->  speed.l = low
+    15 <= speed < 20  --->  speed.l = mid
+    20 <= speed       --->  speed.l = high
+
+[6] Define a new variable (factor) for dist in the following way. 
+          dist < 20  --->  dist.l = low
+    20 <= dist < 40  --->  dist.l = mid
+    40 <= dist < 60  --->  dist.l = high
+    60 <= dist       --->  dist.l = xhigh
+
+[7] t-test: speed.b vs. dist
+
+
+[8] One-way ANOVA: speed.l vs. dist 
+
+
+[9] Contingency table: speed.1 vs dist.l
+
+
+[10] Regression analysis: speed vs. dist
+
