@@ -1,2 +1,2 @@
 # swat_gof
-swat simulations leveraging goodness of fit routines
+swat stuff, subdirectories from dropbox under ktp
